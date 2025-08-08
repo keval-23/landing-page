@@ -81,18 +81,19 @@ a {
 
 /* Background Images */
 .home {
-  background-image: url('images/bg-home.jpg');
+  background-image: url('bg-home.jpg');
   transition-delay: 0s;
 }
 .projects {
-  background-image: url('images/bg-projects.jpg');
+  background-image: url('bg-projects.jpg');
   transition-delay: 0.2s;
 }
 .about {
-  background-image: url('images/bg-about.jpg');
+  background-image: url('bg-about.jpg');
   transition-delay: 0.4s;
 }
 .contact {
-  background-image: url('images/bg-contact.jpg');
+  background-image: url('bg-contact.jpg');
   transition-delay: 0.6s;
 }
+
